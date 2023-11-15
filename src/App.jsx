@@ -12,7 +12,7 @@ import MyStory from "./pages/MyStory";
 import AllUserStories from "./pages/userStories/AllUserStories";
 import DraftStories from "./pages/userStories/DraftStories";
 import Published from "./pages/userStories/Published";
-import { ProtectedRoute } from "./Routes/protectedRoute";
+import { ProtectedRoute } from "./Routes/ProtectedRoute";
 
 function App() {
   return (
